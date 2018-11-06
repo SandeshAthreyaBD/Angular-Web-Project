@@ -23,11 +23,3 @@ In order to get this project up and running locally (Also includes steps followe
     "firebase": "^4.10.1",
     "@angular/core": "^5.2.0",
 
-The Authors of the Project:
-
-Karan Vichare,
-Eldon Kuzhyelil,
-Biswarup Sahoo,
-Omar Syed,
-Sandesh Athreya
-
